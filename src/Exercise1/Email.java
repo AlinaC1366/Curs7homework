@@ -7,7 +7,7 @@ public class Email implements AdProvider{
     @Override
     public String advertiseCompany() {
         quantity++;
-        return "Spam Email";
+        return "NEW";
     }
 
     @Override

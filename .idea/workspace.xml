@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760a3e0c-f26d-4d05-8c85-8a704480af15" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/AdProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Email.java" afterDir="false" />
+    <list default="true" id="760a3e0c-f26d-4d05-8c85-8a704480af15" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/BankProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/Email.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EfoOPegcwOSsn5FZ3NZHa20UnQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662995984631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1662996543920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662996543920</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
